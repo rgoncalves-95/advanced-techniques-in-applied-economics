@@ -1,8 +1,19 @@
 ﻿country,group_3,group_2,group_1
+"China, P.R.: Mainland",Asia,Asia,Asia
+India,Asia,Asia,Asia
+Indonesia,Asia,Asia,Asia
+Japan,Asia,Asia,Asia
+"Korea, Rep. of",Asia,Asia,Asia
+Costa Rica,Americas,Central America,Americas
+Dominican Rep.,Americas,Central America,Americas
+El Salvador,Americas,Central America,Americas
+Guatemala,Americas,Central America,Americas
+Haiti,Americas,Central America,Americas
+Honduras,Americas,Central America,Americas
+Nicaragua,Americas,Central America,Americas
+Panama,Americas,Central America,Americas
 Austria,Euro Zone,Europe,Europe
 Belgium,Euro Zone,Europe,Europe
-Czech Rep.,Europe,Europe,Europe
-Denmark,Europe,Europe,Europe
 Finland,Euro Zone,Europe,Europe
 France,Euro Zone,Europe,Europe
 Germany,Euro Zone,Europe,Europe
@@ -10,42 +21,31 @@ Greece,Euro Zone,Europe,Europe
 Ireland,Euro Zone,Europe,Europe
 Italy,Euro Zone,Europe,Europe
 "Netherlands, The",Euro Zone,Europe,Europe
+Portugal,Euro Zone,Europe,Europe
+Spain,Euro Zone,Europe,Europe
+Czech Rep.,Europe,Europe,Europe
+Denmark,Europe,Europe,Europe
 Norway,Europe,Europe,Europe
 "Poland, Rep. of",Europe,Europe,Europe
-Portugal,Euro Zone,Europe,Europe
 Romania,Europe,Europe,Europe
 Russian Federation,Europe,Europe,Europe
-Spain,Euro Zone,Europe,Europe
 Sweden,Europe,Europe,Europe
 Switzerland,Europe,Europe,Europe
 Turkey,Europe,Europe,Europe
 Ukraine,Europe,Europe,Europe
 United Kingdom,Europe,Europe,Europe
-Canada,North America,North America,Americas
-Mexico,North America,North America,Americas
-United States,North America,North America,Americas
-Costa Rica,Central America,Central America,Americas
-Dominican Rep.,Central America,Central America,Americas
-El Salvador,Central America,Central America,Americas
-Guatemala,Central America,Central America,Americas
-Haiti,Central America,Central America,Americas
-Honduras,Central America,Central America,Americas
-Nicaragua,Central America,Central America,Americas
-Panama,Central America,Central America,Americas
-Argentina,South America,South America,Americas
-Bolivia,South America,South America,Americas
-Brazil,South America,South America,Americas
-Chile,South America,South America,Americas
-Colombia,South America,South America,Americas
-Ecuador,South America,South America,Americas
-Paraguay,South America,South America,Americas
-Peru,South America,South America,Americas
-Uruguay,South America,South America,Americas
-Venezuela,South America,South America,Americas
-"China, P.R.: Mainland",Asia,Asia,Asia
-India,Asia,Asia,Asia
-Indonesia,Asia,Asia,Asia
-Japan,Asia,Asia,Asia
-"Korea, Rep. of",Asia,Asia,Asia
+Canada,Americas,North America,Americas
+Mexico,Americas,North America,Americas
+United States,Americas,North America,Americas
 Australia,Oceania,Oceania,Oceania
 New Zealand,Oceania,Oceania,Oceania
+Argentina,Americas,South America,Americas
+Bolivia,Americas,South America,Americas
+Brazil,Americas,South America,Americas
+Chile,Americas,South America,Americas
+Colombia,Americas,South America,Americas
+Ecuador,Americas,South America,Americas
+Paraguay,Americas,South America,Americas
+Peru,Americas,South America,Americas
+Uruguay,Americas,South America,Americas
+Venezuela,Americas,South America,Americas
